@@ -103,7 +103,14 @@ main{
 .reviewer .star{
     display: flex;
     gap: 4px;
+ 
+   
 
+}
+.reviewer{
+     background-color: #f2eded3c;
+    box-shadow:0px 2px 3px whitesmoke ;
+    padding: 5px;
 }
 
 
@@ -134,4 +141,36 @@ main{
 .nm{
     margin-top:0 px;
 }
+.section4{
+    margin:auto 375px auto 225px ;
+    
+}
+.part{ 
+    font-size:32px;
+    font-weight: 600px;
+    padding-top:10px ;
+    
+}
+.last{
+    padding-top: 71px;
+     display: flex;
+     gap:20px;
+     text-align: center;
+}
+.a{
+    font-size:small;
+    margin-right: 0;
+}
+.h{
+    margin-bottom: 0px;
+    
+    text-align:left;
+}
+.in{
+    border-radius: 4px;
+    padding: 20px 171px 20px  32px;
+}
+
+
+
 
