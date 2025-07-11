@@ -97,4 +97,41 @@ main{
     font-size:30px;
     margin-bottom: 10px;
 }
+.section3{
+    margin-top: 80px;
+}
+.reviewer .star{
+    display: flex;
+    gap: 4px;
+
+}
+
+
+.users-details{
+    display: flex;
+    gap:1px;
+}
+.container{
+    display: flex;
+    gap:10px;
+    padding: 20px;
+    margin-top: 50px;
+  
+
+}
+.heading1{
+    text-align: center;
+
+
+}
+
+.nme{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #25243278;
+    
+}
+.nm{
+    margin-top:0 px;
+}
 
