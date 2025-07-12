@@ -10,7 +10,7 @@
 }
 
 .header{
-    background-image: url('ass/Hero-bg.png');
+    background-image: url('./ass/Hero-bg.png');
    
 }
 nav{ 
